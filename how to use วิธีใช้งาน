@@ -1,0 +1,17 @@
+ต้องมี nodejs โหลดได้ผ่านลิ้ค https://nodejs.org/en
+เปิด cdm 
+พิมพ์ node index.js จะขึ้น 
+    listening on port 3000
+ใน cdm
+เปิด browser พิมพ์ http://localhost:3000/ 
+ใน cdm จะขึ้น 
+a user connected
+
+Must have nodejs, can be downloaded from the link. https://nodejs.org/en
+open cdm
+Type node index.js it will appear.
+       listening on port 3000
+in CDM
+Open a browser, type http://localhost:3000/
+in cdm it will show
+user connect
